@@ -92,7 +92,7 @@ export default function Home() {
 					</div>
 				</div>
 				<div className="basis-2/3 bg-white rounded-3xl">
-					<div className="mx-20 mt-20">
+					<div className="mx-4 md:mx-20 mt-6 md:mt-20">
 						<button className="bg-black text-white block w-full py-2 rounded-lg">
 							WORK HISTORY
 						</button>
